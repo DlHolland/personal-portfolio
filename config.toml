@@ -29,7 +29,7 @@ theme = "aafu"
     # Profile section
     [params.profile]
         name = "Dylan Holland"
-        tagline = "Title"
+        tagline = "Software Engineer"
         location = "Meadville, PA"
         photo = "profile.jpg"
 
